@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "higem2"
+
+Higem2.hi
